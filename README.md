@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Science Intern
+I am a data scientist
 
 
 ## 🌐 Socials:
